@@ -1,0 +1,7 @@
+name: messagingsys
+version: '1.0-SNAPSHOT'
+main: com.kev.messagingsys.Main
+api-version: '1.19'
+commands:
+  msg:
+  r:
